@@ -1,5 +1,5 @@
 ## Bulb App
-    This Flutter Bulb App is designed to simulate turning a light bulb on and off with a simple tap. The app features a clean and intuitive interface that allows you to control the bulb's state easily.
+This Flutter Bulb App is designed to simulate turning a light bulb on and off with a simple tap. The app features a clean and intuitive interface that allows you to control the bulb's state easily.
 
 ## Features
 1. Simulate turning a light bulb on and off with a tap.
